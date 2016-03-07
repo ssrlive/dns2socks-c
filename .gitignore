@@ -1,0 +1,12 @@
+build/
+tmp/
+Debug/
+Release/
+.vs/
+.vscode/
+.VSCodeCounter/
+*.aps
+*.sdf
+*.suo
+ipch/
+*.vcxproj.user
